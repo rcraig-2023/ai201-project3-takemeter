@@ -1,0 +1,639 @@
+text,label,notes
+"Let me guess, because you, yourself, are not an employee so you don't mind because it does not apply to you ?",dismissive_take,
+"We don’t need to make that choice, since collectively people inflict these things on themselves anyway. It’ll be interesting to see whether it leads to any sensible action. The cynical narrator in me says “it won’t.”",dismissive_take,
+"Can someone use this on Elon's ""my heart goes out to you"" video, and compare it to... similar gestures. Would be interested to see exactly how close it is.",clarifying_question,
+"Even setting the legal process aside, I would ask the team before releasing a tool for their product.
+
+Seems kind of rude.",dismissive_take,
+"I've never had a problem with employee tracking. For the 8 hours a day they are paying you for work, you should be working. And if you are working, you have nothing to hide.
+
+The only people pushing back are those that sit on hackernews, reddit, etc. all day and expect to get paid for it.",dismissive_take,
+"Yep, 9:30p here and it's 82F/80% humidity. Still pretty mild compared to the deep summer months (Jul/Aug)!",dismissive_take,
+"With counterfeit currency, the whole point of the counterfeit is to look indistinguishable from the original. This makes it very easy to detect - you know exactly what to look for and you can block it with high confidence, because anything that is not sufficiently similar to the expected image is also too low-quality to be of use. There's also a fairly limited number of banknote designs in the world, and they are only updated rarely.
+
+Not so with guns. Literally hundreds of existing designs, thousands if you account for all the variations. But more importantly, a working firearm is fundamentally an engineering problem with too many solutions. Real world designs tend to be as simple as they can be while still functioning (which is why most modern guns today are very similar internally - the field has converged, what difference remains is mostly legacy path dependent quirks). But if the goal is to defeat a filter, they can be easily made into something more complicated, looking very different but working largely the same.
+
+And if you make the filter fuzzy enough to catch such things, it will also trigger on many completely unrelated things.",technical_analysis,"Hard Edge Case: Post tone is highly frustrated and borders on a rant, but provides specific, verifiable claims about the tech architecture. Resolves to technical_analysis."
+"I think we have to wait and see if long term maintainability will be any different from human coded software. Every single long surviving human written codebase I have worked with, has significant amounts of tech debt and large pieces had to be rewritten from time to time. This is of course anecdotal and I'm sure clean and elegant old codebases exist somewhere.",technical_analysis,
+"Releasing vibe coded handling of google account credentials seems like the biggest problem with this.
+
+Agreed it's gross if the big problem with execs was that it got social media buzz and it embarrassed official products or something.",technical_analysis,
+"Hmm, also saying the scale is 0 to 5 is... something. In my experience, which was a while ago, no one cares about SEV 3, and I only ever saw SEV 4 used as a placeholder or TODO list. Never came across a SEV 5 in the world. It's really ""SEV 2 on a scale of 0 to 3"".",technical_analysis,
+"I hate the ""pick defaults out of a hat"" approach that LLMs seem to take. I suspect this behavior may be a result of reenforcement learning on coding challenges - making the code worse by throwing in these assumptions (which in turn become part of your documented API) may get you an extra half percentage point on the code challenges.",technical_analysis,
+"Bear attacks depend on the (sub)species. European brown bears are very shy and much less likely to attack people than wolves.
+
+Finnish people traditionally respected bears but were not afraid of them. Historical records mostly tell of two kinds of bear attacks. Either children / old people herding cattle in the forest accidentally got too close to a bear cub, or adult men were hunting bears and something went wrong.",technical_analysis,
+"Friend, we are discussing a demonstration of systemic bias in hiring decisions made by AI models. The argument is that it is someone's fundamental right to be treated the same as someone else with the same qualifications but different skin color.",technical_analysis,
+"That's an interesting project, lots of content to explore and teh interface is pretty good and snappy. I feel this is going to be a rabbit hole I'm going to lose hours to!",technical_analysis,
+"I'm going to defend Kevin here because I see a lot of comments from people I am sure have no valid reason to be hating on him.
+
+Kevin was particularly annoying because he never failed to penetrate a target.  The reason that's annoying is it just takes one slip, one weak point, one inattentive admin and it's over.  People will stay mad about that.  I get it.
+
+But those who say he had no talent are just ignorant.
+
+His goal was to make the world safer, and making people pay attention to risk didn't make him a lot of friends.  All the hate I am reading here is just sad.
+
+If you hate Kevin and did not know Kevin, I feel bad for you.  Hate is an expensive emotion, even when you're just being a keyboard warrior.  It should be reserved for people who have really wronged you.  Kevin is not with us anymore.  The hate is hurting you, not him.  And he has a son who will read this someday.  Have a heart.",technical_analysis,
+"So far these packs are monitored, but they contain problem wolves that have been known to attack people. Examples in Utrecht and veluwe, and it takes just a little to learn from those; the issue is that the wolves do not see people as a threat. So far there have been incidents, like bite marks, until they will attack in a group. They should adopt the German method to scare them away proactively",technical_analysis,
+"Releasing vibe coded handling of google account credentials seems like the biggest problem with this.
+
+Agreed it's gross if the big problem with execs was that it got social media buzz and it embarrassed official products or something.",technical_analysis,
+"Hmm, also saying the scale is 0 to 5 is... something. In my experience, which was a while ago, no one cares about SEV 3, and I only ever saw SEV 4 used as a placeholder or TODO list. Never came across a SEV 5 in the world. It's really ""SEV 2 on a scale of 0 to 3"".",technical_analysis,
+"I hate the ""pick defaults out of a hat"" approach that LLMs seem to take. I suspect this behavior may be a result of reenforcement learning on coding challenges - making the code worse by throwing in these assumptions (which in turn become part of your documented API) may get you an extra half percentage point on the code challenges.",technical_analysis,
+"Bear attacks depend on the (sub)species. European brown bears are very shy and much less likely to attack people than wolves.
+
+Finnish people traditionally respected bears but were not afraid of them. Historical records mostly tell of two kinds of bear attacks. Either children / old people herding cattle in the forest accidentally got too close to a bear cub, or adult men were hunting bears and something went wrong.",technical_analysis,
+"Friend, we are discussing a demonstration of systemic bias in hiring decisions made by AI models. The argument is that it is someone's fundamental right to be treated the same as someone else with the same qualifications but different skin color.",technical_analysis,
+"That's an interesting project, lots of content to explore and teh interface is pretty good and snappy. I feel this is going to be a rabbit hole I'm going to lose hours to!",technical_analysis,
+"I'm going to defend Kevin here because I see a lot of comments from people I am sure have no valid reason to be hating on him.
+
+Kevin was particularly annoying because he never failed to penetrate a target.  The reason that's annoying is it just takes one slip, one weak point, one inattentive admin and it's over.  People will stay mad about that.  I get it.
+
+But those who say he had no talent are just ignorant.
+
+His goal was to make the world safer, and making people pay attention to risk didn't make him a lot of friends.  All the hate I am reading here is just sad.
+
+If you hate Kevin and did not know Kevin, I feel bad for you.  Hate is an expensive emotion, even when you're just being a keyboard warrior.  It should be reserved for people who have really wronged you.  Kevin is not with us anymore.  The hate is hurting you, not him.  And he has a son who will read this someday.  Have a heart.",technical_analysis,
+"So far these packs are monitored, but they contain problem wolves that have been known to attack people. Examples in Utrecht and veluwe, and it takes just a little to learn from those; the issue is that the wolves do not see people as a threat. So far there have been incidents, like bite marks, until they will attack in a group. They should adopt the German method to scare them away proactively",technical_analysis,
+"One thing that I'm certain of, is that there are always costs to writing more lines than what is necessary to solve a specific problem.
+
+I've experienced this before AI, and I've experienced this, magnified, with AI.
+
+For a well-designed project written by hand, you will work faster writing the code for new features by hand than the same project written with AI from scratch, using AI to write the new features.
+
+But... If you have a well designed, human-written codebase, you will be faster if you generate the code for new features using AI than if you do it by hand... And you can maintain that speed for long periods of time if you use fine-grained prompts. What matters most is the quality of the codebase.
+
+You can achieve the same degree of maintainability using AI from the beginning but you would have to make fine-grained prompts.
+
+The gap is about making good engineering decisions. It just so happens that the value of good decisions compounds over time.",technical_analysis,
+It's strange what people think is expensive. Double glazing is very expensive but no one in Europe would go without it. Aircon is not expensive within the context of a house's construction costs.,technical_analysis,
+"if she was committed enough to raising a healthy child that she was willing to skip an epidural and endure hours of excruciating pain
+
+...do you think that same commitment might have shown up in other ways in her parenting? such as in the foods she fed her child, or the activities she encouraged that child to do?
+
+man, I remember when I used to come to HN because the average intelligence level of the comments was higher than it was on reddit.",technical_analysis,
+"The real issue is that the hood on the Sienna is basically the same height as the one on most crossovers, because that's the nature of a vehicle with tall roof (necessary for cargo capacity). The hood/windshield has to ascend quickly to reach that height unless you want the hood to be longer, but a longer hood would negatively impact the ability of the driver to see children directly in front of the vehicle.",technical_analysis,
+"I'm wondering whether this is a permanent change. After all the easy-to-find bugs have fixed and you can't find them just by asking an AI, perhaps security issues will deserve special treatment again.",clarifying_question,
+"Aicon is reasonable for areas where it's required, but ""solving"" things in areas where for millenia it wasnt required simply removes the pressure to act. This would be the opposite of what's required right now, which is decisive and heavy action on something we've been inactive on for way too long.",technical_analysis,
+"Determinations of worth are irrelevant. If the government says you have to pay $1000 in taxes then you have to come up with $1000, regardless of any stories or beliefs.",dismissive_take,
+"> use those monopoly profits to fund R&D/building items of incredible quality
+
+But why would a corporation do that when it could simply distribute those profits to shareholders?",technical_analysis,
+"SF6 is a horrifically powerful greenhouse gas, so I doubt it could be used.  Its GWP is somewhere around 23,000 on a 100 year timescale.",technical_analysis,
+"I mean, the GP is being overdramatic but releasing a vibe coded cli frontend for an official product in a google github org and that uses your google account credentials is a big deal no matter how unofficial you claim it is in the readme.",technical_analysis,
+"I guess it may be semantics, but I agree that I would have the same expectation. However, I also I think getting fired would be a justified punishment in the situation.
+
+It’d like playing a computer game during free library time at the school when I was a kid; I would expect to be reprimanded, however just outright barring use from the computer during free time would probably be justified.",technical_analysis,
+"> I have friends who did things like take a gap year to travel the world or met their spouses on nights I stayed in to study, and some evenings when browsing HN I feel very sad that I wasted my 20s on a society that does not care about me.
+
+I'm glad you have finally recognized the problem.
+
+Stop living for your idea of others and start living for yourself.",dismissive_take,
+"While I'm trying to take a test it seems too much to start a Hello world application, or just to bundle my existing ""dist"" folder of a part time project.
+
+Is it possible to install some tool, and give it a ""dist"" fold path and the application is generated all alone?
+
+I'm stupidly lazy, and I hate work with graphical UIs to start a project and input that many fields, make me feel like visiting a 1990 web page requires me registering with tons of information and most of them are useless or at least I can provide later if needed.",clarifying_question,
+"Well that took a wild, albeit unsurprising turn at the end (bringing in race). Though I do still wonder if there ends up being actual material improvements on brain scans being behavior predictors or if it truly stays in science fiction (probably science fiction). Very evocative of the anime Psycho Pass.
+
+> Psycho-Pass is set in a futuristic Japan governed by the Sibyl System, a powerful biomechatronic computer network which continually monitors the psychological traits of Japanese citizens using a ""cymatic scan."" The resulting psychometric assessment is called a Psycho-Pass, which includes a numeric Crime Coefficient index, revealing the citizen's criminality potential, and a color-coded Hue, alerting law enforcement to other data... When a targeted individual's Crime Coefficient index exceeds the accepted threshold (100), they are pursued, apprehended, and either arrested or killed by the field officers of the Crime Investigation Department of the Ministry of Welfare's Public Safety Bureau.",clarifying_question,
+"I've made people do a lot of things for like $100.
+
+I'm sure you'd do that and much more for $10k, lol!",dismissive_take,
+Being proud of selfish behavior is something that is embarrassing to see. What a great role model you are.,dismissive_take,
+"I see. So you believe that if Europeans designed their streets to be less safe for pedestrians, like they are in the U.S., then their overall vehicular death rate would go down. Is that right?",clarifying_question,
+A single shopping to trip to Walmart or Home Depot can buy items that can be repurposed into bombs and physical and chemical weapons with only a little bit of know-how. Are we going to require mandatory ID and shopping cart analysis to all shopping too?,dismissive_take,
+"Not only is Apple bad at open source, they ban participating on open source projects outside of work.
+
+<a href=""https://web.archive.org/web/20200421143520/https://twitter.com/mdiep/status/1252586799098183682"" rel=""nofollow"">https://web.archive.org/web/20200421143520/https://twitter.c...</a>",dismissive_take,
+"This matches my experience coding, and the expectations I (and many other) have been voicing for years about why AI is still a ways away from solving coding. The hard part of programming isn't pressing the keys to put code into a file, it's understanding the problem and coming up with a good, clean, extensible solution. AI is great at making ok solutions that technically work, but pretty bad at having a good <i>vision</i> for a solution. AI is still very useful for bouncing ideas off of and exploring to create a better understanding, but writing a good spec for an LLM to implement isn't <i>much</i> easier than just writing the code yourself.",technical_analysis,
+"If you're in MA you better thing twice before walking around with your zoobow, klackers or kung-fu sticks! <a href=""https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Chapter269/Section12"" rel=""nofollow"">https://malegislature.gov/Laws/GeneralLaws/PartIV/TitleI/Cha...</a>",technical_analysis,
+"The problem, as far as they are concerned, is enforcement. The law can say that X is illegal and ban selling it, but if you can 3D-print it, and its use is already illegal either way, then the law is moot.
+
+Note that this isn't really limited to guns either. I foresee a similar moral panic wrt 3D printing ""killer drones"" (i.e. parts that allow one to attach explosive to a drone) and software that allows you to circumvent various restrictions on drone firmware. All it'll take is one high profile attack using a drone...",technical_analysis,
+"In Australia, ordinary posts on X is flagged and requires ID so I solved the problem like any homelab person would.
+
+I run OPNSense and have a Mullvad VPN, every time I access X or any service that enforces digital ID, firewall rules forward those requests to the Mullvad VPN gateway.
+
+This whole mess started because of the Australian activists Collective Shout.
+
+1. They went after Steam +18 games but Steam didn't give them attention
+
+2. They went after Visa/Master and due to political influence, Visa/Master blackmailed Steam
+
+3. Steam removed thousands of +18 games
+
+4. The following week, UK pushed digital ID
+
+5. Countries worldwide followed but Japan
+
+What happened at end?? Million of people having their personal information leaked, it has never been so easy to become a victim of identity theft.
+
+The same Collective Shout against +18 games, supported a movie on Netflix exploring kids s**lly.",technical_analysis,
+"Yeah no.  Not really.
+
+That is what was tried.  The S&P 500 didn't play along.
+
+A comparatively small number of index funds & retirement accounts that use them will get caught.  The majority won't.",dismissive_take,
+"Fantastic decision: striking while the iron is hot (high market cap and market appetite) to build an investment war chest.
+
+Even if they don't grow into their valuation and it drops substantially, they are well capitalized for a great business.",technical_analysis,
+"> the result is deterministic
+
+Well the result generally matches the input specification, something that an LLM is much less consistent about. I don't think it's deterministic in the sense of being able to predict a priori what the compiler will generate for a novel and nontrivial code block.",technical_analysis,
+Sounds good but the big problem I have with futo key board is that it can only do one language at a time. With gboard I can swipe type al 3 languages I speak without having to constantly switch. I wish they could make that.,technical_analysis,
+"Because you don't really have to do any additional steps once the ink is on the paper like you do with a 3D printed firearm.
+
+Looking at just the silhouette or shape, you couldn't really tell the difference between the body of a firearm that was later going to receive a metal tube from the hardware store or a plastic bracket that I'm going to use to support a shelf.
+
+And even if you could accurately tell the difference, how do you know I'm not helping my nephew build a Nerf gun?",technical_analysis,
+"[dupe] <a href=""https://news.ycombinator.com/item?id=48548461"">https://news.ycombinator.com/item?id=48548461</a>
+
+<a href=""https://news.ycombinator.com/item?id=48523271"">https://news.ycombinator.com/item?id=48523271</a>",dismissive_take,
+"Larry Sanger once called me ""butthurt"" just before welcoming me to his e-mail ""killfile"". I forget the context completely, but to this day it stands as one of my proudest young Internet troll moments.",dismissive_take,
+"Hey, let's be fair, a number of politicians and ultra rich psychopaths care <i>a lot</i> about children, it was covered in those documents...",dismissive_take,
+"This is not the same for places like the Veluwe and Utrecht in the Netherlands, where wolves have attacked people already. They do not fear people as much...
+
+Forest rich areas are close to urban areas, and they have been spotted in border regions already.",technical_analysis,
+"Right, I'm saying that these are sensible regulations and Anthropic et al want to prevent US states from being able to pursue them.",technical_analysis,
+"Google has quite a few of those. It's hard to figure out if they're really official.
+
+<a href=""https://github.com/googleapis/googleapis/discussions/865"" rel=""nofollow"">https://github.com/googleapis/googleapis/discussions/865</a> / <a href=""https://github.com/google-research/big_vision"" rel=""nofollow"">https://github.com/google-research/big_vision</a> / <a href=""https://github.com/googleapis"" rel=""nofollow"">https://github.com/googleapis</a>",technical_analysis,
+"> commercial printers will refuse to print anything that looks like counterfeit currency
+
+They will refuse to print images that contain the EURion constellation, a cluster of points with specific distances between them. (<a href=""https://en.wikipedia.org/wiki/EURion_constellation"" rel=""nofollow"">https://en.wikipedia.org/wiki/EURion_constellation</a>)
+
+More generally, ""Does this image represent US currency?"" and ""Does this 3D mesh represent a dangerous gun part?"" are different kinds of questions.
+
+Checking if an image is US currency is simple. Not only can an image similarity hash be used, but the design of the currency can be changed to make checking easier. The checking program just has to run a textbook algorithm and compare the result with a handful of hashes (we only have a few denominations of bills).
+
+We can be confident that the checking program will always see substantial portions of the bill, so it can always see the pattern. If someone chopped the bill into tiny pieces, it would look fake when glued together. Looking like a real bill is the thing we want to control, and that's something we can reliably measure with simple algorithms.
+
+Checking if a 3D shape is a gun part is an unsolvable problem. (It would be equivalent to making a program that can detect hidden ""subversive"" meanings in text.) The checker would have to understand how the piece could operate in the hands of a skilled person. Parts could be printed in multiple pieces, or have material removed after printing, so it'd have to anticipate all possible post-processing steps.
+
+Even if the problem is limited to ""match against these known gun part hashes"", gun parts are not defined by their overall appearance. The files can be mutated until they no longer trip the detector, yet can be easily post-processed into functional components. (Also, a similarity hash for 3D toolpaths may not exist.)
+
+(Such a hashing regime would be useless to stop ""3D-printed guns"" as a concept, because the design could be changed to not match the hash at all, without post-processing.)",technical_analysis,
+"Just get proper dogs again to protect the livestock.
+
+I really don't understand how people can't just look at how farmers in areas with wolves handle it and how we handled it in the past.
+
+Eliminating all predators is also not that great then you get tons of hogs and deer etc.
+
+People in other regions are still alive with way more dangerous predators than here in Europe I personally think it's more an education problem that people get way too close to wild animals just have a look at any social media and you see that most people have no basic education about how wild animals should be handled.",technical_analysis,
+"> <i>You do realise that mobile usage is a subset of the Internet and the Internet is not just about end user connectivity.</i>
+
+I would argue that mobile usage is the <i>primary</i> way that many people access the Internet in their <i>personal lives</i>, as evidenced by fact that IPv6 usage goes up on weekends, when people are probably not browsing stuff on work laptops.
+
+> <i>But you still haven't addressed my original point, how has IPv6 averted the impending (at the time) IP exhaustion problem?</i>
+
+If T-Mobile US could not offload a lot of traffic to 'straight' IPv6 they'd need a lot more publicly accessible IPv4 addresses. As it stands now they can only have their IPv4 addresses assigned to CG-NAT boxes, but without IPv6 they'd have to have way more IPv4 to assign to handsets, or given handsets 10/8 or 100.64/10 and have may more IPv4 on their CG-NAT hardware. (They'd also need way beefier CG-NAT hardware to handle higher loads.)
+
+See also for example Vodafone moving to IPv6 to deal with IPv4 address shortages:
+
+* <a href=""https://www.youtube.com/watch?v=3CzFkvJ2Kxs"" rel=""nofollow"">https://www.youtube.com/watch?v=3CzFkvJ2Kxs</a>
+
+Or how Sky wouldn't have been able to create a new ISP without it because of a lack of available IPv4:
+
+* <a href=""https://www.youtube.com/watch?v=03cwFIPdgQ8"" rel=""nofollow"">https://www.youtube.com/watch?v=03cwFIPdgQ8</a>
+
+* <a href=""https://www.youtube.com/watch?v=9Cg3dLR95wY"" rel=""nofollow"">https://www.youtube.com/watch?v=9Cg3dLR95wY</a>",technical_analysis,
+"[dupe] <a href=""https://news.ycombinator.com/item?id=48540499"">https://news.ycombinator.com/item?id=48540499</a>",dismissive_take,
+"A setting with planeswalkers is just asking for random ""in universe"" collabs.  Same disease as multiverses.
+
+Note to writers: yes, adding multi dimension shenanigans keeps your options open, but remember that limitation breeds creativity.",technical_analysis,
+"Memory constraints force programmers to pay more attention to efficiency, but whether they can write better code depends on whether they know how to balance performance, readability, stability, and maintenance cost.",technical_analysis,
+"Very interesting. Haven't heard of RLMs before.
+
+<a href=""https://github.com/alexzhang13/rlm"" rel=""nofollow"">https://github.com/alexzhang13/rlm</a>
+
+> We propose Recursive Language Models (RLMs), a general inference paradigm that treats long prompts as part of an external environment and allows the LLM to programmatically examine, decompose, and recursively call itself over snippets of the prompt.
+
+> We find that RLMs can successfully process inputs up to two orders of magnitude beyond model context windows and, even for shorter prompts, dramatically outperform the quality of vanilla frontier LLMs and common long-context and coding scaffolds [...] across four diverse long-context tasks while having comparable cost.
+
+<a href=""https://arxiv.org/abs/2512.24601"" rel=""nofollow"">https://arxiv.org/abs/2512.24601</a>
+
+I had a similar thought the other day. When doing a research task, you don't want to crap up the context with all the web scrapes. But you want to ask follow up questions on the full context, not the anemic subagent summaries. So what you actually want is an ""extended context"" you can grep.",technical_analysis,
+"Absolutely this. Arrogance isn't going to hold against the sun. It's very stupid of EU to ignore the fact this is how hot it will be from now on, and 1000 year old dwellings using only windows to cool are no longer acceptable living standards.",technical_analysis,
+"Big companies just wake up the worst instincts in everyone involved.
+
+I've seen people getting thrown under the bus even for voluntarily quitting due to burnout. Like legitimately doing illegal stuff such as withholding documentation or writing recommendation letters in secret code.
+
+I know of a company that I worked that is currently under fire currently for not following the law and lying to employees by advising them incorrectly about their rights. They can't even fucking fire people properly without breaking laws and treating them like shit.
+
+No company deserves anyone's loyalty or concern.",dismissive_take,
+"Most verification is undecidable, lots of it is pspace complete. That doesn’t mean very much in practice since those are worst case bounds. People regularly solve problems that are undecidable for all practical instances that they care about.",technical_analysis,
+"Who will be conducting this ""mass surveillance""
+
+The government?  Nope.  Guess again
+
+This blogger thinks age verification legislation somehow supports these companies or has no negative effect on their bottom line
+
+Who knows.  Maybe that is correct.  We are going to find out
+
+But many would argue that unless and until computer users allowing Big Tech to collect data, for _any_ purpose, start to be interested _that data is being collected_ (cf. how it is allegedly used), nothing will change
+
+Perhaps ""age verification"" could be what finally causes them to be interested.  Trying to argue that this is what Big Tech companies want, or that they don't care, is pure nonsense, but online commenters are certainly trying
+
+Yes, age verification may be part of Big Tech mass surveillance.  The question is whether this particular data collection will cause computer users to care that Big Tech is doing mass surveillance",technical_analysis,
+"I think they’re arguing we’d be doing something about global warming instead of rage baiting each other from the comfort of our cool houses on social media while ignoring it, like we’re doing.
+
+Well, not really ignoring it, more like making it worse while setting giant piles of bills on fire.",dismissive_take,
+"This has happened; not fatally. Last July and August kids have been attacked, involved a 6yo boy; bite marks and abrasions after being dragged. While these kids survived, there is emotional damage. I was attacked by a dog, a bred that is now illegal to own, when I was a kid. And I can tell you that this fear stayed with me till late in adulthood. The encounters have become more regular as places like Belgium, Netherlands are more densely populated or in close proximity to forests. Warthogs have attacked people in my area, but they are not a false and smart like a wolf is. They are a lot more opportunistic in their approach and stealthy. So yes, the number of incidents are rising.
+
+<a href=""https://www.rtvutrecht.nl/nieuws/3929221/jongetje-6-dat-bos-in-werd-gesleurd-is-aangevallen-door-probleemwolf"" rel=""nofollow"">https://www.rtvutrecht.nl/nieuws/3929221/jongetje-6-dat-bos-...</a>
+
+The worst part is, often the problem wolf is known to people (multiple incidents), but there is no permit to deal with it, or just difficult even when permit is granted. There is no real plan for this",technical_analysis,
+"Verifying behaviour of an arbitrary program is uncomputable. However that doesnt mean you can't have proofs of behaviour of specific programs you create.
+
+Personally i have some doubts, a lot of research has gone into the idea without much to show for it, but its a very reasonable research area.",technical_analysis,
+"The structure here is confusing me too. I gather from the Wiki that at the top is the Mozilla Project, described as a parent of everything Mozilla does (including the Mozilla Foundation). One level lower, we have the Foundation. And the new Mozilla.org is ""within [its] umbrella"".
+
+I don't understand why the responsibilities apparently delegated to Mozilla.org wouldn't be more appropriate for one of its parent entities, which already exist.",clarifying_question,
+"I’ve written a little library Rhombus.
+
+I think my favorite thing is the `…` operator. Go check it out. It’s not like the splat operator in other languages, though it does give that feel initially. It’s much more general: it works with nested data structures and can take the place of a `map` operation.
+
+The best part of `…` is that it is <i>not a built-in thing</i>—it’s just a macro! The magic is that Rhombus lets you define different macros depending on whether or not the macro identifier appears in binding context (left side of `=`), expression context, or some other contexts. IIRC you can even define your own contexts too.
+
+Rhombus takes the best-in-class macro system of Racket and somehow finds a way to improve upon it. I say this after researching and comparing detailed metaprogramming features across a dozen different languages. Rhombus is a very neat little language.
+
+Last thing: Rhombus’ main data type, the list, is implemented with an RRB tree. RRB trees support structural sharing, functional updates, and have O(log n) iterate, insert, delete, append, and arbitrary read operations. The constant factor on that is tiny: I think it’s like log_16 or log_32. They’re designed to be very cache friendly. Super cool data structure.",technical_analysis,
+"You can do a perfectly good, very efficient mini split for USD $5k. Avoids the leaks of window of portable units. And if you're feeling fancy you can get it as a cold climate heat pump. They're great options for retrofitting - can do multiple indoor air handlers, etc., for far less than $50k",technical_analysis,
+So much capital has exited even the dominant coins.  Is it another low to be inflated up again in a year or two?  This has happened every single time The End was declared.,clarifying_question,
+"I feel like what should have happened with AI is that teams should have started to put more effort into planning and pre-implementation discussions. Second thing, team leads should have felt more comfortable to reject large Pull Requests.
+
+When I see a large 10k-lines PR, I feel a sense of panic. In a corporate setting, I also feel a kind of pressure to approve; the more work was done, the more pressure there is to approve the PR. This is why I think up-front pre-implementation discussion and alignment has become essential.
+
+You really can't have people going rogue and weaponizing their AI-generated lines to gain control of a project through the duality of brittleness + complexity.",technical_analysis,
+"Misinformation.
+
+As somebody who spends an insane amount of time inside, the lack for exposure to the Sun mot just affected vitamin D levels but eyes sight too, they were terrible, and also mood.
+
+Taking vitamin D pill instead of Sun is not the same.",dismissive_take,
+"The moral of the story here is just to do bloodwork on a regular basis (absolute bare minimum once a year) and respond accordingly. I take some supplements like vitamin D, but I only take what is empirically measurable. If I can't quantitatively measure the outcome, then there is no value and it's a woo woo solution. This isn't always going to be the best advice, but a vast majority of times it will be.",technical_analysis,
+Accessory to assault on a police officer? What luck! That happens to be exactly the crime our beloved president pardoned a bunch of people for recently.,dismissive_take,
+"I'm convinced that a dominate use of all the exploding construction of data centers will be to ramp up spying on citizens, likely in the name of ""fighting terrorism"". The same is being used to require I.D for every internet user in the name of fighting child porn. The AT&T case with technician Klein proves that the government will secretly and continuously violate the laws of the land to serve their own purposes.",technical_analysis,
+"You're right, I was imprecise. Additionally, I wasn't aware that some multiplayer games are free. I'm obviously not a PS5 user.",technical_analysis,
+"Air conditioning only works for things inside of buildings. Not so good for the plants and animals our lives depend on.
+
+And it raises the heat outside of buildings. Not so good for people who have to be outside, think first responders etc.
+
+""just turn on the AC and keep burning the world down"" isn't really the answer.",technical_analysis,
+"I don’t think it has killed it per se. I think it’s a major shift and the long standing institutions were in equilibrium to where society was prior. It worked. Disruption came and quicker than ever. We are adapting much slower than we have before. This makes it seem bleak. Just like a market, we will reach an equilibrium again but it won’t be like before. We now have the opportunity to increase our learning velocity like never before. It’s important to distinguish between substitution and supplemental on where we go especially with AI.",technical_analysis,
+"People tend to rely on air temperatures when in reality the lethality of heat is probably more linked to the wet-bulb temperature.
+
+The human body has a natural resting temperature of about 37°C, and metabolism of course generates more heat constantly, so we constantly have to shed that heat. When the temperature is low, we can rely purely on conducting the heat into the atmosphere to shed the heat (which is probably why internal body temperature is higher than the atmosphere!). At higher temperatures, conduction is less efficient, or sometimes even adds heat load into the system (at above 37°C, obviously), so we start relying on evaporative cooling (i.e., sweat) to cool us down.
+
+The wet-bulb temperature is the minimum temperature that can be reached by evaporative cooling. So when the wet-bulb temperature is in the mid-30s °C… people start to become literally unable to regulate their core body temperature, and the heat is lethal. Wet-bulb is largely a combination of the temperature and humidity, but unfortunately, it's not typically reported in most weather reports, so people go off of the air temperature (and the humidity) that is reported.
+
+Which is a long-winded way of saying ""the humidity matters <i>a lot</i> for how much a given temperature is bearable."" I don't know what environment you come from purely by rural New South Wales, but my first guess is the semi-arid and thus low-humidity bush regions of the state, which means the apparent wet-bulb temperature of 37-40°C would be a lot lower than the equivalent 37-40°C for most of the humid continental climates of Europe.",technical_analysis,
+"Meta continuing to be the most shameless (and shameful to work for) company around.
+
+I can't think of a single product of theirs that hasn't made the world a markedly worse place. Even their recent hardware foray is managing to find a way to ruin trust in everyday interactions (guys filming drunk girls with Ray Bans, surveillance, etc.).
+
+Have several friends at the more 'thoughtful' frontier labs that bin meta applicants straight to the trash for this very reason.",dismissive_take,
+"> Pro-Israel people actually are in favor of targeting these kids because they might grow resentful of Israel and join Hamas.
+
+I know many in that camp, and this sounds bananas to me.",dismissive_take,
+"Really terrible in Canada. If you don’t have a family physician (like everyone I know), good luck making it through triage at the walk-in clinic because you want a test to see your baseline values or proactively check for deficiency. The “hack” is you can pay a naturopath to order tests but the tests are not covered by public insurance in this case (actually pretty expensive IIRC).",technical_analysis,
+It's in his (Mitnick's) autobiography Ghost in the Wires. In his telling of the story they put him in a more restrictive environment exactly because of the reason given (launching nukes by whistling into a phone),technical_analysis,
+There are some problems with incentives in the vuln report space. People report trivial vulns and expect the same treatment as people reporting critical vulns. But this isn't new with AI. Look at all the ReDos vulns in npm ecosystem. Its questionable if its a vuln in general but half of them aren't even triggerable.,technical_analysis,
+"> <i>getting a random empty email</i>
+
+Is it really empty? From a sibling comment by tom1337 <a href=""https://news.ycombinator.com/item?id=48651560"">https://news.ycombinator.com/item?id=48651560</a> it looks like they are using some CSS tricks to hide the text in a html email.",technical_analysis,
+"If I don't have $30K to $50K to invest in an HVAC for the home, the next best is a relatively efficient Window unit that costs low hundreds and will help me stay alive in the heat.  However enticing the price of a single duct portable unit is, do not buy it.  It's a complete waste.  If you go portable, go with the dual ducted one --but it's still not as good as a Window unit (which I would hope is obviously less efficient than a properly specced HVAC unit.",technical_analysis,
+"Yes but AFAIUI Mitnick was upset Shimomura had the full weight of the police on his side, right? He used techniques that shouldn't have been available to him
+
+Interesting fact about Shimomura, he was a student of Feynman's",technical_analysis,
+"Well you mostly wouldn’t at the grocery store. I see plenty of people towing their toys on highways in the midwest, all summer long.
+
+Boats, campers, etc.",technical_analysis,
+I can't imagine this is significant unless there is a demonstrated reporting bias between the US and Europe.  Otherwise I'd assume it's a wash,technical_analysis,
+I remember listening to the landing on NPR(?) when it happened.  There was no streaming back then and IDK what channel it would have been on if it was on TV at all.  IIRC they brought someone special into the studio because they expected to need someone who was extra good at verbalizing visual things.  It was very impressive at the time.,technical_analysis,
+"Last time I saw one of these conversations on HN that was the key question.
+
+What people disagreed on was what's good, or what's even good enough. I don't think that's a new thing but it's becoming far more apparent in the age of AI.
+
+I'll make the claim, a demo is easy to make. But it's far from a minimum viable product. A demo is *<i>maybe*</i> 10% of the work. But for some people I know (and work with) they act like it's 90%.",technical_analysis,
+"You would think the devrel would be more familiar with OSS policies than anyone else.
+
+Something about their LinkedIn job title at Google (""Developer Relations (Mostly SWE)"" also reads odd.",dismissive_take,
+"> We may create codebases that are not merely hard to maintain by humans, but that assume machine participation as part of their maintenance model... People more and more merge code they cannot fully explain. People lose their ability to create issue reports or discuss things in chat, without augmenting or rephrasing their messages with the context provided by a clanker. Too many people increasingly rely on a machine to summarize or contextualize it. More and more do I encounter people who converse with me through the indirection of an LLM.
+
+I experience this daily now. It find it discouraging and concerning.
+
+I believe we're merging more code we can't fully explain because we are now relying on code review to build the mental model that was previously built by writing code and collaborative technical planning. I don't think code review is fit for this purpose. I do think we can extend code review with structured exercises, informed by pedagogy, that strike a better balance between friction and understanding. (I'm looking for help testing these exercises).",technical_analysis,
+"For the same speed, the total energy would be Car-v^2 vs SUV-to-Car-v^2
+
+But the smaller cars are probably more carefully designed for ""crunch"" zones, preserving their occupants by maximizing the effect of available material. The nominal energy involved vs Cars would simply scale as Mass of SUV in Cars.",technical_analysis,
+"The memory pipeline just starts one cycle later than now. Effective address is calculated during the first cycle of the instruction. The microcode then waits for it to finish with the DLY (delay) micro-op, which releases one cycle later.",technical_analysis,
+"No offense to other people, but I couldn't give two shits about whether they're safely walking to the store or not.  I only care about myself and my family.",dismissive_take,
+"Again, I'm pretty skeptical that this person completely missed this part of the training for seven years.",dismissive_take,
+"Correct.
+
+Other countries regulate the pressure-bearing parts instead. It probably started off with a safety rationale (those parts are generally proof tested), but those parts ALSO tend to be the ones that are more difficult for someone to produce at home.",technical_analysis,
+"A lot of it is acclimatization. In Taipei this morning, at 9:30 it’s already 31C and 73% humidity, forecasted to hit 37C by noon. My first year living here this was unbearable, but now it’s tolerable. It’s just summer, not a spurious heat wave.",technical_analysis,
+I prefer the opposite since it absolutely trashes proper nouns and makes it extremely annoying to type bilingually.,technical_analysis,
+"Efficient window unit?
+
+Best of the best is about 15-16 SEER
+
+That's entry level central HVAC efficiency
+
+Minisplits are far higher, 20+",technical_analysis,
+"Sounds like you and I both like rebelling and challenging cultural norms, and being counter culture? I also love understanding people and find these ways of playing and being fun. If I'm not having fun, I lose interest in winning.
+
+I found my groups and communities in odd, niche areas like mindfulness communities and men's groups therapy - maybe you relate? Are you also selective with groups and friends, and keep a smaller circle perhaps?",clarifying_question,
+"How do you expect it to give you what you want if you don't think about it?
+
+Solution spaces for even seemingly simple problems is incredibly large. There's a reason there's a thousand different types of nails and a million types of screw heads. Just making every screw head Phillips (or pick another) doesn't just make things work.
+
+But you need expertise to know these things. They're the issues that are subtle and appear to work but you end up breaking things (often invisibly) and just end up chasing problem after problem.  It looks like a new problem but it's rooted in something else.",technical_analysis,
+"Bottom line, he did something that affected the company without any authority. His action implied the product was Google blessed without the company fully knowing about it. Google has spent billions to protect its reputation and then you have a random guy put out a self create product without the company  even knowing. They had a case for suing him for millions. Of Course, they wouldn't have been able to collect but it would have been hell for him. They also had a case for criminal fraud. All in all he's lucky he only got fired.",technical_analysis,
+"There are plenty of 3D printed guns that are good for more than one shot. The classic examples are 3D printed Glock-style frames and AR-15 lower receivers. As far as US gun laws are concerned, those parts are the firearm and the rest of the parts are uncontrolled. So you print those, buy barrels, triggers, magazines, etc to finish the build and voila, ghost gun.",technical_analysis,
+"For some reason it's very hard to find window units for sale in the UK, single-duct portables are the only thing available for cheap (although it's a fairly easy mod to convert one to dual-duct).",technical_analysis,
+"> <i>Getting hit by a 4000lb car or an 8000lb truck matters much less</i>
+
+It's not the weight of the vehicle but that the front of a US truck is a big flat brick wall, whereas vehicles more common in Europe have a lower-shaped hood you fall on which is engineered to dent (some even having an actuator to pop up and increase the distance to the engine) and save the life of the pedestrian (as tested by Euro NCAP)",technical_analysis,
+"Will anthropic disintermediate slack at some point?
+
+at the limit it seems inevitable that if their cost to build is low they can build their own slack, github, operating system etc.",technical_analysis,
+Not exactly. OPTIONS lets servers tell you that QUERY is supported if the client requests it and Status Code 405 lets servers tell you that QUERY is not supported. That's very different from the current landscape where several proxy servers and web servers simply ignore the Body of a GET request.,technical_analysis,
+"Is this, however, because humans rarely encounter wolves? I can see wolves attacking a large man, but can see them picking a kid if he is walking alone to school.",clarifying_question,
+"There are plenty of such projects with similar disclaimers under Google's own /google/ organization. To give a few examples:
+
+<a href=""https://github.com/google/python-fire"" rel=""nofollow"">https://github.com/google/python-fire</a> / <a href=""https://github.com/google/pytype/blob/main/docs/index.md"" rel=""nofollow"">https://github.com/google/pytype/blob/main/docs/index.md</a> / <a href=""https://github.com/google/dopamine"" rel=""nofollow"">https://github.com/google/dopamine</a> / <a href=""https://github.com/google/go-tika"" rel=""nofollow"">https://github.com/google/go-tika</a>
+
+Also plenty of official Google organizations that are not /google/ , but have official projects.
+
+<a href=""https://github.com/googleapis/googleapis/discussions/865"" rel=""nofollow"">https://github.com/googleapis/googleapis/discussions/865</a> / <a href=""https://github.com/google-research/big_vision"" rel=""nofollow"">https://github.com/google-research/big_vision</a> / you can find plenty more
+
+I wouldn't read too much into it, since it can mean virtually anything.",technical_analysis,
+I figure it out. I saved the project to ~/.agents/skills and use Codex /skills and choose Peter Lynch Skill for a quick research.,technical_analysis,
+"To clarify, by REST spec I meant the state of access defined by <a href=""https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Methods"" rel=""nofollow"">https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/...</a>.",clarifying_question,
+"Imagine four balls on the edge of a cliff.
+
+Say a direct copy of the ball nearest the cliff is sent to the back of the line of balls and takes the place of the first ball. The formerly first ball becomes the second, the second becomes the third, and the fourth falls off the cliff.
+
+DOEPDMA works the same way.",technical_analysis,
+"seems like an example of change of game design rewarding play time over community or socializing. or might be hard to connect those two together. for me, to relate to your experience, I played a army shooter sim called Americas Army in the 2000's and its community also allowed me a similar community effect + positive behavior incentives, and we had open chat too.",technical_analysis,
+"I've always assumed there is some sort of ""acclimation"" period, maybe even related to the conditions you grew up in.  I much would rather spend a time outside in -40c (with proper outerwear) than 40c. I'm relatively healthy but I feel like my body shuts down at anything above 36c",technical_analysis,
+"My thought exactly when I saw the post.
+
+xfig should still work, right? I remember that it could only export to .fig and .eps files, not latex or any other plot format.",technical_analysis,
+"Maybe I'm being defensive, but the problem with this chart is it assume a binary of good dev/bad dev; AI makes the bad dev worse and the good dev better.
+
+However, I think I once was a pretty good dev, and AI use is slowly turning me into a slop cannon. The temptation to use AI in place of real understanding is too strong.
+
+I'm sure you'll say I was always dead weight, but I just want you to consider the possibility that AI might erode the capacity for good devs to handle discomfort, turning them into bad devs.",technical_analysis,
+"> Had the US not used air conditioning so much we probably wouldn't have this heatwave right now.
+
+Sure we would, since AC has nothing to do with it.",dismissive_take,
+"> You don't generally tend to have long sessions with agents in Slack like you would if using in the terminal.
+
+You have to check the announcement fineprint. As long as they advertise it as proactive it needs to keep up to date with all the ongoing discussions. And I believe that means all group messages. Wouldn't that make sense?
+
+From the announcement
+
+> follows along with its channel, it builds more context about the work
+
+> And Claude can even automatically learn from other Slack channels and data sources, if it’s granted permission.
+
+And the additional ""ambient"" mode also seems to imply that it will work by itself in background tasks to check in (I assume) some scheduled fashion what stale topics it needs to reengage.",technical_analysis,
+"I predicted this response months and I was downvoted to hell.
+
+Lol f&ck all of ya - many here think they are sooo smart. No you are absolutely not. Many here step into topics (corporate finance, valuation et al) when they have absolutely no right in doing so - unless you know this stuff inside out, just shut up. All you are doing is creating noise.",dismissive_take,
+Big Ad Tech is helping push age verification because Big AI Tech took away human eyeballs. It's not that deep.,dismissive_take,
+"If you want to argue for client side controls, I’m on your side. I’ve expressed this opinion elsewhere in this thread.
+
+I’m well educastes on what remote attestation means, and I know it’s the status quo. But it is not required by law. And I’d very much like for it to continue being optional indefinitely, and not bundled with a different “save the children” law.
+
+More specifically, I don’t want to have to prove to the OEM that I’m an adult to unlock my bootloader or disable SecureBoot. Or, more realistically, I don’t want OEMs deciding it’s cheaper to stop offering that choice because they don’t want to risk unlocking the bootloader on a child’s device.",technical_analysis,
+"Fundamentally, Anthropic is a token merchant (it is higher quality than other models, but still token merchant), so it will find any excuse to make you spend more tokens, and not even try too hard to help you save on tokens.
+
+The whole ‘inline visualization’ thing is another great example. You want to know about this new concept on Claude? Why don’t I generate this new ‘inline visualization’ for you to learn it even if it doesn’t significantly help you at all…",dismissive_take,
+"Great that it was available, but compared to Peter's version this one is inferior. It didn't have draft email as a default and asking it to write a draft would just send the email, oops lol. And doesn't have mutli-account support or a number of other features. I think one thing it could do better was inline commenting (maybe), but neither CLI can initiate their own comments...
+
+Gog cli - <a href=""https://github.com/openclaw/gogcli"" rel=""nofollow"">https://github.com/openclaw/gogcli</a>",technical_analysis,
+One thing that worries me with “learn from anything” systems is that the memory layer effectively becomes part of the attack surface. We’ve seen cases where stale or malicious context persisted far longer than expected and influenced future agent behavior.,technical_analysis,
+"Run this once per boot:
+
+<pre><code>  sudo setfacl -m u:$USER:r-- /dev/nvmen01p2 # or whatever
+</code></pre>
+And then any program you run will have read access to the block device.
+
+Or if you want to only give fff access,
+
+<pre><code>  sudo groupadd diskreaders
+  sudo setfacl -m g:diskreaders:r-- /dev/nvmen01p2
+  sudo chown :diskreaders /path/to/fff
+  sudo chmod g+s /path/to/fff
+</code></pre>
+And just run fff normally after that. Here too, the facl command has to be run every boot. Just crontab it. Everything else runs once.
+
+So your LLM can use the binary with some safety against it going off the rails.",technical_analysis,
+Thanks! Modify is the part where you can ask your coding agent to update the app live - including UI changes.,technical_analysis,
+"Hasan Piker is a very bad example because he supports the Houthi, and the Houthi are VERY anti-semitc, their flag literally curses ALL jews
+
+""God is the Greatest, Death to America, Death to Israel, Curse be upon the Jews, Victory to Islam""",technical_analysis,
+You don't need to get central A/C or mini splits.  You can use an efficient Window unit (not those single ducted portable units that are just barely better than nothing.)  Those are available at Walmart in the US for a couple hundred apiece. Presumable hypermarkts like Carrefour would carry them or some places that serve home improvement.,technical_analysis,
+"The article says height of the hood and massive A pillars. People like big and boxy.
+
+Increased hood height kills people and creates an absurdly large blind area. Massive pillars add roll safety but create horrible blind spots in left hand turns.",technical_analysis,
+"Yeah I'm thinking about my desktop computer. Also, I find that the autocorrect on my phone is not that good, especially when the first letter is incorrect.",technical_analysis,
+"> It’s demoralized a lot of people
+
+Isn't this a good thing? Doesn't it mean your company doesn't want employees to treat LLMs like slot machines?",clarifying_question,
+"The EU has a €300B program directly subsidizing farmers [0]. To quote the wiki page:
+
+<pre><code>     The [EAGF] consumes a large part of the general budget of the European Union. 
+</code></pre>
+Apparently the overarching CAP program consumes something like  30+% of the budget, so I'd love to know what you consider ""heavily subsidized"" if this doesn't merit.
+
+[0] <a href=""https://en.wikipedia.org/wiki/European_Agricultural_Guarantee_Fund"" rel=""nofollow"">https://en.wikipedia.org/wiki/European_Agricultural_Guarante...</a>",technical_analysis,
+"A great tech book on symbolic computers in general and Lisp machines, is Peter Kogge's 1991, ""The Architecture of Symbolic Computers"". I believe new efforts by people like Yann LeCun will counter the ""LLMs or bust"" monoculture along with SOC/ASICs, in-memory compute, neuromorphic chips, dataflow, optical/analog hybrids , etc. that will bring a healthy correction or alternatives to the Von Neumann architecture.",technical_analysis,
+"About half of Americans lack any access to intercity transport that isn't a private car.[1]
+
+About 15% of rural Americans aren't within 25 miles of any intercity transit, much less interstate; low-income residents are disproportionally represented in that group. That figure jumps to 25% if you exclude suburbs, and in some states that figure is as high as 62%.[2]
+
+Even as intercity bus demand has increased due to the declining quality of air travel in the US,[3] rural intercity bus access has declined. Greyhound served many rural routes until its slow collapse before being acquired by FlixBus, which is more focused on urban access than Greyhound was. The deregulation of intercity bus access in 1982, which led to the closure of many intercity routes (disproportionally in the rural Midwest) that required subsidization from more profitable routes, was a major factor.[4]
+
+So ""what percentage of Americans can't afford a bus ticket to the nearest city in an adjacent state"" is a non-starter of a question, because most of the Americans who'd _need_ an interstate bus ticket can't even get to a bus stop without first owning a car... with which they could simply drive to another state.
+
+1: <a href=""https://itdp.org/2024/01/24/high-cost-transportation-united-states/"" rel=""nofollow"">https://itdp.org/2024/01/24/high-cost-transportation-united-...</a>
+
+2: <a href=""https://www.bts.gov/data-spotlight/85-rural-residents-have-reasonable-access-intercity-transportation-lack-reasonable"" rel=""nofollow"">https://www.bts.gov/data-spotlight/85-rural-residents-have-r...</a>
+
+3: <a href=""https://www.wsj.com/lifestyle/travel/bus-travel-tickets-airline-prices-a5916ee7"" rel=""nofollow"">https://www.wsj.com/lifestyle/travel/bus-travel-tickets-airl...</a>
+
+4: <a href=""https://www.thenation.com/article/society/greyhound-bus-transit-decline/"" rel=""nofollow"">https://www.thenation.com/article/society/greyhound-bus-tran...</a>",technical_analysis,
+"Recently - from YT recommended - I learned about Glauber's salt (sodium sulfate).
+
+Glauber's salt is a PCM phase-change material that melts at 90F / 32.4C and starts absorbing thermal energy.",technical_analysis,
+In the context of trying to hide the evidence after a member of their anarchist collective shot a law enforcement officer in the neck...,technical_analysis,
+Can someone explain how this works? A gyrotron is some kind of maser (like a laser but with microwaves). Are they vaporizing the rock?,clarifying_question,
+"Are you allowed to take precautionary actions, like a weapon or spray? As in Europe that is not even considered/disallowed for the safety of the animal.",clarifying_question,
+"We try! But most California restrictions on handguns have been struck down by the courts, and many of the surviving restrictions manufacturers simply refuse to comply with. They've been boycotting microstamping technology for over a decade, blatantly lying about commercial viability as an excuse for their policy preference not to do it. (I'm <i>slightly</i> sympathetic, because it is true that the first manufacturer to comply will probably themselves get boycotted by anti-gun-regulation zealots.)",technical_analysis,
+"It does, but I have to direct it and review it. That means I have to think about it, research it, consider how the new feature or system fits in with the existing feature or system. I have to make decisions on libraries/dependencies. I have to consider how the project will evolve in the next week, month, quarter. I communicate all of that to Claude in an interactive planning session and it outputs a detailed spec, ready for implementation.
+
+All of that thinking, planning, rewriting, etc. takes almost as long as it takes Claude to actually deliver the feature. The big features Claude writes take ~30-45min of uninterrupted coding to deliver (I just checked the last feature was 39m 41s for +1,610/-26). To write that same code would have taken me probably 2 days.",technical_analysis,
+"I suspect we're going to get a lot of dichotomous responses to this.
+
+1) the FDA has one job and this is it: if you do something which impinges on information in clinical sciences applied to humans they have a role to play and there is a process.
+
+2) this is why we ""cant have nice things"" because basic indicative feedback on your own state from a simple sensor can't be enabled because <reasons>",technical_analysis,
+"My comment is about remote attestation, which is incredibly user-hostile technology; not secure boot. Secure boot enables remote attestation, but by itself is mostly harmless.",technical_analysis,
+"You're not wrong, but if I'm talking to a Chinese Room, I'm still going to use pronouns and all sorts of meatbag-specific language. It doesn't matter if there really is a real person on the other end or not -- it's easier for me to just default to the assumption that there is. Monkey brain gonna anthropomorphize.
+
+On the other hand if I try to talk to Facebook, all he says in response is ""200 OK"".",technical_analysis,
+"I've been playing with this for about 0.7s now. It is probably the most necessary project I have come across in the last 0.71 seconds. I am eager to implement this in my production codebase to drastically reduce the potential for cognitive overload of my developers.
+
+Unfortunately I am but a lesser staff engineer. I will have to convince my intern to approve these changes.
+
+Do you have any benchmark results you can share to help me convince them of this interpreter's performance? The API makes it clear that it's highly integratable and I would love to put it to the test!",clarifying_question,
+"It gets interesting when the two system interacts. Friends visiting the US told me that at the POS terminal they had to choose credit card despite paying with a Visa/Mastercard debit card issued by an European bank.
+
+By the way, here banks even have daily bank / wire transfer limit that can be changed only by a personal visit to a branch, so even if your online banking credentials are stolen, the attacker can not empty your account.",technical_analysis,
+"Yeah i read it. As I said, I dont think any of you can accurately determine intent so its a moot point.",dismissive_take,
+"I wonder if it's because non-developers are not exposed to Codex and Claude Code? I try to use Antigravity every now and then, and each time I drop it because of the sheer number of bugs and general brokenness.",technical_analysis,
+"seems to me that 20% of people agreeing, and the remaining 80% staying silent (or 79% with 1% vocal), leads to the abuse cycle continuing.
+
+The silent majority creates a false feeling of large consensus and inability to know the reality.",technical_analysis,
+"> If a security vulnerability is reported by someone who is also violating the CoC, what do you do? Do you ignore it? Fix it silently?
+
+Is this even a question?  You triage and fix the vulnerability just like any other one. Are truths spoken by folks one dislikes — even for perfectly valid reasons — any less true?
+
+The only way I can imagine this somehow applying is if someone has a habit of reporting vulnerabilities which do not exist, or of exaggerating their severity.  Is crying wolf a CoC violation? If so, then I can imagine that particular sort of bad behaviour justifying some consideration before acting on a report.",technical_analysis,
+"Jews legally migrated to the area and bought land starting 1882 driven by the rise of the Zionist movement and pogroms in Eastern Europe. If the Arabs had won the war they would have forced every last Jew out of the area and Israel would never have existed. When the Jordanian Arab Legion took control of the Jewish Quarter of the Old City of Jerusalem, the ancient synagogues were destroyed, and the entire Jewish population was expelled or taken prisoner. The same happened in the Gush Etzion bloc. If the combined Arab armies had won the war, the Jewish state would have been dismantled, and the Jewish population would have been expelled or killed.They lost but have rather pathetically refused to accept this for 78 years now.",technical_analysis,
+"Big news. I wish this was done sooner; however, this will enable a whole new capability especially by developing a pipeline that allows for such innovation to occur. Quantum computing silently drifted. It’s exciting to see the progress being made and how the world could look in the next couple of decades.",technical_analysis,
+"> <i>The problem is they designed v6 with no good compatibility in either direction. I get that there's no way for v6 to support v4, but at least going from v4 to v6 should've been easier.</i>
+
+Here are the constraints:
+
+""""""
+
+Whether you expand the address size to 33, 64 or 128 bits, all IPv4 implementations will discard the packets. So it's a matter of mathematical and physical fact that to expand the address size, you must change the protocol, and that means two things immediately:
+
+1. You have to change the version number.
+
+2. You have to add new code to handle the new version.
+
+Furthermore, you don't want to split the Internet in two, so you must design a method of interworking between the old version and the new version. Annoyingly, you need to do that in a way that can be done completely in machines that know about the new version, because other machines don't know anything at all about the new version, by definition. So,
+
+3. You need a coexistence technique so that updated systems, with the new protocol, can connect to old systems that know nothing of the new protocol.
+
+Two minutes of thought show that this third requirement has only two solutions:
+
+(3A) Dual stack, in which the new machines speak both the old (IPv4) and new (IPng) protocol.
+
+(3B) Translation, in which something translates addresses between the old and new protocols.
+
+This has been known for more than 30 years [RFC1671], although people still sometimes try to deny it.
+
+""""""
+
+* <a href=""https://github.com/becarpenter/book6/blob/main/01.%20Introduction%20and%20Foreword/Why%20IPv6%20is%20so%20complicated.md"" rel=""nofollow"">https://github.com/becarpenter/book6/blob/main/01.%20Introdu...</a>
+
+It is impossible for IPv4 to connect to IPv6: IPv4 data structures have 32-bit data structures, and this includes the fact that DNS A records are 32-bit only. You cannot have a more-than-32-bit-addresses protocol scheme that can be reach by non-updated IPv4 systems.
+
+If you want to add more bits <i>there is no way around adding/changing code</i>, in which case you are in the exact same situation as we have now with IPv6. You either go with 3A or 3B above.",technical_analysis,
+"A group of people sitting together listening to one person talk are not socializing. Once one person stops monopolizing their collective attention, then they can socialize. The more effective alternatives to lecture bring learners into more engaged contact with each other.",technical_analysis,
+"Spanish here. Same here.
+
+I think they have been spreading the paranoia for years as if something abnormal was happening... I am not sure, that first thing. Second: even if the weather keeps shifting (I would say more slightly than what they tell us or continuously ""suggest"" with headlines in the media), these temperatures are bearable by humans with a few cautions depending on the age group.
+
+I used to go jogging midday in summer in Spain, near Valencia, in the seaside. Almost 40 degrees (sometimes I guess 40 or more).
+
+It is hot, true, but if you can resist this kind of impact and you do not expose yourself to the sun in stupid ways (like many hours in a row) nothing bad is going to happen to you.
+
+The headlines are all the time alarming people and sensationalist, even if the cancellation is there.",dismissive_take,
+"outside of nature preserves, all species that threaten humans should be exterminated with extreme prejudice.",dismissive_take,
+"Man - what a ride this last year and a half has been. I feel for the juniors or newer developers, who really haven't had time to get into the seat. I don't see a great place to really ""settle"" into right now, as the field is unfolding rapidly. I wonder what things will look like in 10 years.
+
+If I give an agent a sufficient spec, and it can one shot it, I imagine we won't need to loop, especially if we assume the tech is going to meaningfully improve in the coming years. In 5 years, ""make no mistakes"" and ""add tests + review this code"" will be baked into the agent or completely unnecessary, right?
+
+Maybe I'm out of the loop.",technical_analysis,
+"There are times that enough hits are revealed, or other patterns, that guessing the actual answer is possible in fewer than six attempts.  I think three-try wins are not unheard of for me, though honestly it's been years since I've played.",technical_analysis,
+"Sounds utterly ridiculous I agree but there's something to be said for 60+ years of muscle memory, otherwise olds rocketing motorhomes off of cliffs or augering into the side of the local walmart would feature more prominently in the local news. Quit picking on paw paw and keep the fight where it belongs: suburbanite pavement princesses must die.",dismissive_take,
+"> This type of mentality is really not helping anyone. If you really think shaming people works,
+
+Scroll down past the emojis to the actual interesting part of the article with positive reinforcement, empathy, etc.",dismissive_take,
+"If they keep writing articles about this, eventually nobody will believe them.
+
+(1) <a href=""https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf"" rel=""nofollow"">https://en.wikipedia.org/wiki/The_Boy_Who_Cried_Wolf</a>",dismissive_take,
+"This system requires a subsequent RO Reverse Osmosis system because it only removes so much of the Na salts (which it makes into Na metal).
+
+It looks like stacking this system on this system would be even more efficient; <a href=""https://news.ycombinator.com/item?id=48425376"">https://news.ycombinator.com/item?id=48425376</a> :
+
+> <i>""Extreme salt-resisting multistage solar distillation with thermohaline convection"" (2023) <a href=""https://www.cell.com/joule/fulltext/S2542-4351(23)00360-4"" rel=""nofollow"">https://www.cell.com/joule/fulltext/S2542-4351(23)00360-4</a> </i>
+
+Which sustainable production processes take brine as an input?",technical_analysis,
+"Disagree. If this VP is delegating to direct reports things they should be capable of handling, that's normal. If a direct report informs this VP of intended action, it both keeps the VP informed and acknowledges that the VP might have other information that should alter the intended course.
+
+I'm assuming a trusted, competent direct report, and that the DR has chosen a timeframe that is reasonable give the situation.
+
+For example:
+
+Customer has a problem that will cause them to miss payroll on Friday. We've known about it since Tuesday morning. VP, DR & team spent Tuesday understanding the underlying problems.
+
+VP has found one of the issues is in a third-party product, who are notably resistant to believing they have a bug, and are prone to not deploying a fix until either the next major update or three months after first report. VP is working on a software fix that makes use of another esoteric behaviour of the third-party product to potentially prevent the current problem from recurring, but now expects to not be done before Thursday.
+
+DR & team spent Wednesday testing, and believe they can ensure payroll will be ontime by deploying a workaround Wednesday night, during the customer's existing maintenance window, where customer's I.T. group are known to be available for this issue. DP sends email to VP with intended course of action and known caveats.
+
+VP knows he can keep working on the longterm fix without the customer's ability to make payroll hinging on it.
+
+. o O (  The above actually happened, approximately thrice, due to different vendors committing shenanigans. It is abstracted from different customers.  )",technical_analysis,
+">> using them selfishly is cringe.
+
+> Stop blaming the tool for peoples poor behavior.
+
+Are you then in agreement with the author?",clarifying_question,
+"Not medical advice.
+
+You probably need to take vitamin d3 with k2 to avoid the calcium issues.
+
+Edited to add link 
+<a href=""https://pmc.ncbi.nlm.nih.gov/articles/PMC5613455/"" rel=""nofollow"">https://pmc.ncbi.nlm.nih.gov/articles/PMC5613455/</a>",technical_analysis,
+"in addition to a relevant xkcd, there is also a Wikipedia article about the phenomenon and a behind-the-scenes list
+
+- <a href=""https://en.wikipedia.org/wiki/Circular_reporting#On_Wikipedia"" rel=""nofollow"">https://en.wikipedia.org/wiki/Circular_reporting#On_Wikipedi...</a>
+
+- <a href=""https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_incidents"" rel=""nofollow"">https://en.wikipedia.org/wiki/Wikipedia:List_of_citogenesis_...</a>
+
+- previous discussion: <a href=""https://news.ycombinator.com/item?id=35535407"">https://news.ycombinator.com/item?id=35535407</a>",technical_analysis,
+"Using a fixed set of known words (perhaps with adaptive use based on revealed hits and misses) is cognitively easier than trying to come up with 1) a valid English-language word which 2) fits with the revealed information.  If the goal is <i>only</i> to find the actual term, it works quite well.
+
+As others have indicated withing this post, there are other ways to play.  I'm not claiming to have found the One True Way, just one that happens to achieve <i>a</i> (usually) successful result.",technical_analysis,
+"I think it's more that air conditioning is (currently) prohibitively expensive. The few people I know that have it spent several thousands of euros on their installations. That's not something most people have lying around.
+
+You'd think the government could subsidize aircon like they did solar for years, and both of those things combined would translate to very pleasant summers spent in energy neutral air conditioned homes.",technical_analysis,
+"The open source policy described above was in place 16 years ago (I went through it to continue working on some existing projects), and I doubt it was very new then.",technical_analysis,
+"Even Bangladesh have huge gated communities (almost closed city districts, with office buildings and commerce besides residences) that are orders of magnitude that do a really good job of isolating someone from the general dystopian chaos of the city.",technical_analysis,
+"As a Xoogler you should know that the ""impact"" they want is, making leadership look good,  what you shipped or even whether or not you shipped is nigh irrelevant.
+
+This did the opposite, didn’t it?",technical_analysis,
+"Call me nostalgic or whatever, but my laptop to this very day...
+
+<a href=""https://fogbeam.com/free-kevin.jpg"" rel=""nofollow"">https://fogbeam.com/free-kevin.jpg</a>",dismissive_take,
+That’s like asking if a relationship can improve to a point that communication is no longer necessary. It misses the point.,dismissive_take,
+I wish this overhyped garbage just hadn't happened. But greed continues to prevail it seems.,dismissive_take,
+This is due to most blockchain projects being overhyped garbage. The tech itself is also of questionable practical value.,dismissive_take,
+I'm arguing that LLMs are overhyped garbage which frankly seem like a dead end for someone pursuing a career in software development.,dismissive_take,
+"TBH I think mesh routers are overhyped garbage. They don't work well, and pollute the spectrum, and are a really poor substitute for cables. The only reason why they sell well is because people will buy anything as long as they don't need to lay cables.",dismissive_take,Hard Edge Case: Mentions technical concept ('pollute the spectrum') but uses it entirely to support a cynical rant rather than an argument. Resolves to dismissive_take.
+"First off, the 'Priority Delivery' is a total scam. It was pitched to us as a 'psychological value add.'",dismissive_take,
+"It's not a capital 'S' scam in a legal sense, but it's a scam in that they are playing a trick on you by jacking the price way up and relying on your ignorance.",dismissive_take,
+Just another completely unnecessary abstraction layer to hide the fact that nobody actually knows how to write raw SQL anymore.,dismissive_take,
+This whole startup looks like a massive grift. I give it 18 months before they pivot to whatever the next tech fad is and leave their users completely stranded.,dismissive_take,
+This is why modern web dev is an absolute joke. You need 500 dependencies just to render a static text page.,dismissive_take,
+Absolutely ridiculous feature. Who actually asked for this? It feels like the product managers just needed something to justify their salaries this quarter.,dismissive_take,"Hard Edge Case: Formatted as a question ('Who actually asked for this?'), but intent is entirely cynical and dismissive. Resolves to dismissive_take."
+How exactly does ChatGPT 'quietly think' internally? Does it actually maintain a hidden chain of thought or is it just generating a preamble before the actual response?,clarifying_question,
+Could you elaborate on why they chose to use WebAssembly for the frontend instead of sticking to standard React/JS?,clarifying_question,
+"Wait, I'm confused about the memory allocation part. Are you saying the garbage collector pauses are completely eliminated, or just shifted to a different thread?",clarifying_question,
+What exactly happens when the API rate limit is exceeded? Does it queue the requests or immediately return a 429 error?,clarifying_question,
+Can someone explain why this approach is considered more secure than standard OAuth2?,clarifying_question,
+"Is this framework actually being used in production anywhere yet, or is it still strictly an experimental side project?",clarifying_question,
+How does the performance compare when running this on ARM architecture versus standard x86?,clarifying_question,
+"I don't quite get the licensing model here. If I use this in a closed-source commercial product, do I have to pay per seat or is it a flat tier?",clarifying_question,
+Could someone clarify what the actual bottleneck was? Was it the database read latency or the network overhead between the microservices?,clarifying_question,
+"Does this update break backwards compatibility with the V2 endpoints, or will they run side-by-side for a deprecation period?",clarifying_question,
