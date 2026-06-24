@@ -41,6 +41,9 @@ The model was fine-tuned using the HuggingFace `transformers` and `datasets` lib
 ## 📊 Evaluation Report
 
 ### Overall Performance Comparison
+
+* Baseline Approach: The baseline metrics were generated using a zero-shot prompt. The model was provided with the exact label definitions and examples from planning.md and explicitly instructed to output only the exact label string without any reasoning or formatting to ensure parseable results.
+
 | Model | Overall Accuracy |
 | :--- | :--- |
 | **Zero-Shot Baseline (Groq)** | 83.3% |
